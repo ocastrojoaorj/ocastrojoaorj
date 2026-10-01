@@ -27,7 +27,6 @@ Soluções digitais para experiências e operações turísticas.
 ## Vamos conversar
 
 - 🌐 [castrocompny.com.br](https://castrocompny.com.br/)
-- 💼 [LinkedIn](https://www.linkedin.com/)
 - 📧 [Entre em contato](mailto:joaolucas.isep@gmail.com)
 
 > Sempre aprendendo, construindo e compartilhando.
