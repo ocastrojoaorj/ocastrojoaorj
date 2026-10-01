@@ -6,8 +6,7 @@
 
 Construo produtos digitais para transformar operações complexas em experiências simples, eficientes e escaláveis.
 
-[![Site](https://img.shields.io/badge/Site-castrocompny.com.br-111827?style=for-the-badge&logo=google-chrome&logoColor=white)](https://castrocompny.com.br/)
-[![Email](https://img.shields.io/badge/Email-Entre_em_contato-111827?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaolucas.isep@gmail.com)
+[🌐 Site](https://castrocompny.com.br/) · [📧 E-mail](mailto:joaolucas.isep@gmail.com)
 
 </div>
 
